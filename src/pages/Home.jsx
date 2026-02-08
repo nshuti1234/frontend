@@ -14,7 +14,7 @@ const Home = () => {
       <section className="hero-section">
         <div className="hero-content">
           <h1 className="hero-title">
-            herzlich willkomen zu <span className="gradient-text">unser webApp</span>
+            Herzlich willkomen zu <span className="gradient-text">unser webApp</span>
           </h1>
           <p className="hero-subtitle">
             A modern, secure, and scalable web application built with React, Node.js, and MongoDB.
@@ -145,3 +145,4 @@ const Home = () => {
 };
 
 export default Home;
+
